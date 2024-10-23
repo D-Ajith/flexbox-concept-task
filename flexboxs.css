@@ -24,6 +24,12 @@ h1{text-align: center;}
     display: flex;
     align-items:center;
 }
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+}
 .navbar3{
     background-color:rgba(0, 0, 0, 0.77);
     display: flex;
@@ -32,4 +38,14 @@ h1{text-align: center;}
     align-items: center;
     width:90%;
     margin:50px;
+}
+.left1{
+    display: flex;
+    align-items: center;
+}
+.right1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
 }
